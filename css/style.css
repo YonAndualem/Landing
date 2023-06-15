@@ -1,5 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;500&display=swap');
 
+/* MY_CSS */
+.logo{
+    width: 200px;
+    height: 100px;
+    padding-left: 0px;
+    display: inline;
+}
 body{
     box-sizing: border-box;
     margin: 0;
@@ -220,7 +227,7 @@ header button:hover {
     float: left;
 }
 .second-row {
-    width: 50%;
+    width: 36.7%;
     float: right;
 }
 
